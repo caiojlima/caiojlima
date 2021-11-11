@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiojlima&text_color=00FF00&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FF00"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiojlima&text_color=00FF00&title_color=00FF00&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block; margin: 20px 20px" align="center" ><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
