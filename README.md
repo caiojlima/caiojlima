@@ -3,6 +3,8 @@
  - HTML
  - CSS
  - JavaScript
+ - Git
+ - GitHub
  - React
  - Jest
  - RTL
@@ -11,7 +13,6 @@
  - Node.js (in progress)
  
  ### Link pra meu portifólio: https://caio-lima.vercel.app/
- 
 
 <div>
   <a href="https://github.com/caiojlima">
