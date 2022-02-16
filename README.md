@@ -1,4 +1,17 @@
-<!-- ### Olá! Meu nome é [Caio Lima](https://www.linkedin.com/in/caio-limah/) e sou estudante de Desenvolvimento Web na Trybe! 🔭 -->
+ ### Olá! Meu nome é [Caio Lima](https://www.linkedin.com/in/caio-limah/) e sou estudante de Desenvolvimento Web na Trybe! 🔭
+ ### HABILIDADES:
+ - HTML
+ - CSS
+ - JavaScript
+ - React
+ - Jest
+ - RTL
+ - Docker
+ - MySql
+ - Node.js (in progress)
+ 
+ ### Link pra meu portifólio: https://caio-lima.vercel.app/
+ 
 
 <div>
   <a href="https://github.com/caiojlima">
