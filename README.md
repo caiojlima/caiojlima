@@ -1,4 +1,4 @@
- ### Olá! Meu nome é [Caio Lima](https://www.linkedin.com/in/caio-limah/) e sou estudante de Desenvolvimento Web na Trybe! 🔭
+ ### Olá! Meu nome é [Caio Lima](https://www.linkedin.com/in/caio-limah/) e sou Dev Fullstack! 🔭
  ### HABILIDADES:
  - HTML
  - CSS
@@ -10,10 +10,11 @@
  - RTL
  - Docker
  - MySql
- - Node.js (in progress)
- 
- ### Link pra meu portifólio: https://caio-lima.vercel.app/
-
+ - Node.js
+ - JAVA
+ - .NET
+ - NestJS
+ - PHP
 <div>
   <a href="https://github.com/caiojlima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiojlima&text_color=00FF00&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FF00"/>
